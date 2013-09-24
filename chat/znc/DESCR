@@ -1,0 +1,2 @@
+Portable, open source IRC bouncer written in C++. It can be extended using
+modules written either in C++ or in Perl and Tcl.
