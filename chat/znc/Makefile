@@ -20,6 +20,8 @@ GNU_CONFIGURE=	yes
 USE_TOOLS+=	gmake pkg-config
 USE_LANGUAGES=	c c++
 
+CONFIGURE_ARGS+=	--enable-tcl
+
 PKGCONFIG_OVERRIDE+=	znc.pc.in
 
 .include "../../mk/bsd.pkg.mk"
