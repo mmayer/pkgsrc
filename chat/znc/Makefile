@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	znc-1.2
+DISTNAME=	znc-1.4
 CATEGORIES=	chat
 MASTER_SITES=	http://znc.in/releases/
 
